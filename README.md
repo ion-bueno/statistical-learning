@@ -12,7 +12,7 @@ The full analysis is carried out in R , **code.R**, with the full explanations p
 * Unsupervised classification.
 * Supervised classification.
 
-The original data as well as some preprocessed are stored in the folder **dataset**.
+The original data as well as some preprocessed are stored in the folder **data**.
  
  
  
